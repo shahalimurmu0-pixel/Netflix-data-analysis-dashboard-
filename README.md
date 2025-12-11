@@ -38,8 +38,9 @@ Netflix has thousands of titles, but it’s hard to understand the big picture j
 - Made charts like bar and line graphs to show trends
 
   ## Dashboard
+<img width="1829" height="758" alt="Screenshot 2025-12-11 132206" src="https://github.com/user-attachments/assets/3582bb01-4749-4cb3-a88c-1b4120c0e126" />
  
-(https://github.com/shahalimurmu0-pixel/Netflix-data-analysis-dashboard-/commit/c78140fe908f24fbb57ddf420a8bf51fee593bf8#diff-71daf75d1636a28996d3ba1fadb733e5b5ff3bdcd9816015db53e4726383553b)
+
   ## Project Insight
 - Netflix added the most titles in 2018, showing a big jump in content  
 - Documentaries, Dramas, and Stand‑Up Comedy are the top genres  
