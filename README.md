@@ -28,6 +28,7 @@ Netflix has thousands of titles, but it’s hard to understand the big picture j
 - Which country adds the most new content  
 - On which dates were the most shows added?  
 - How has the number of Movies and TV Shows changed over the years
+
  Dashboard interaction - <a href="https://github.com/shahalimurmu0-pixel/Netflix-data-analysis-dashboard-/commit/c78140fe908f24fbb57ddf420a8bf51fee593bf8#diff-51aa5409477248e1e373e2e6b0ca0dd7e1d9a3e105bb1bd1e8b40df4b0826bca">View Dashboard </a>
 
 ## Process  
@@ -37,7 +38,7 @@ Netflix has thousands of titles, but it’s hard to understand the big picture j
 - Made charts like bar and line graphs to show trends
 
   ## Dashboard
-    https://github.com/shahalimurmu0-pixel/Netflix-data-analysis-dashboard-/commit/c78140fe908f24fbb57ddf420a8bf51fee593bf8#diff-51aa5409477248e1e373e2e6b0ca0dd7e1d9a3e105bb1bd1e8b40df4b0826bca
+   Screenshot 2025-12-11 132206.png
 
   ## Project Insight
 - Netflix added the most titles in 2018, showing a big jump in content  
